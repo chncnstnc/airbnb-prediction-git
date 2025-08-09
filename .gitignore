@@ -1,0 +1,14 @@
+# ignore all SQLite files
+*.db
+
+# ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# ignore virtual environments
+venv/
+.env/
+
+# ignore system files
+.DS_Store
